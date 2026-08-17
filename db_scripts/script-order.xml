@@ -1,0 +1,3 @@
+<databaseScripts dataSource="jdbc/Appian">
+    <script order="1">AP_CITIES.sql</script>
+</databaseScripts>
