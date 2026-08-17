@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<applicationPatches>
+    <applicationPatch>
+        <applicationUuid>ca5add63-9d0b-41ff-80cd-cae4ad78eda2</applicationUuid>
+        <packageInfo>
+            <url></url>
+            <name>CI/CD</name>
+            <pkgUuid>a666f79e-a57e-40fa-9f5d-c78f9338ecb9</pkgUuid>
+        </packageInfo>
+        <patchContents>
+            <item>
+                <type>content</type>
+                <uuids>
+                    <uuid>_a-0000ee91-8c80-8000-9c19-011c48011c48_715621</uuid>
+                </uuids>
+            </item>
+        </patchContents>
+    </applicationPatch>
+</applicationPatches>
